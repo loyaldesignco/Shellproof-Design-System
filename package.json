@@ -1,0 +1,14 @@
+{
+  "name": "shellproof-design-system",
+  "version": "1.0.0",
+  "description": "ShellProof Security design tokens synced from Webflow",
+  "type": "module",
+  "scripts": {
+    "sync": "node scripts/sync-tokens.js",
+    "generate:css": "node scripts/generate-css.js",
+    "update": "node scripts/sync-tokens.js && node scripts/generate-css.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

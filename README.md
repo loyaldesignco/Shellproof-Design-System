@@ -1,8 +1,44 @@
 # ShellProof Security — Design System
 
-Extracted from Webflow (site: `shellproof-sec`) on 2026-02-23.
+Live-synced from the Webflow API. Design tokens, component styles, and layout conventions for the ShellProof Security website.
 
-This design system documents all design tokens, component styles, and layout conventions used across the ShellProof Security website.
+---
+
+## Quick Start — Webflow API Sync
+
+### 1. Set your API key
+
+```bash
+cp .env.example .env
+# Edit .env and paste your Webflow API access token
+```
+
+Generate a token at **Webflow Dashboard → Account → Integrations → API access**.
+
+### 2. Pull the latest tokens
+
+```bash
+npm run sync         # Fetch variables + styles from Webflow API
+npm run generate:css # Rebuild tokens/variables.css from fetched data
+npm run update       # Both steps in one command
+```
+
+| Script | What it does |
+|--------|-------------|
+| `npm run sync` | Pulls variables and styles from the Webflow v2 API, writes `tokens/variables-raw.json` and `styles/styles-raw.json` |
+| `npm run generate:css` | Converts the raw token data into `tokens/variables.css` |
+| `npm run update` | Runs sync then generate in sequence |
+
+### Files written by `npm run sync`
+
+| File | Description |
+|------|-------------|
+| `tokens/variables-raw.json` | Raw Webflow API response (all variable collections + modes) |
+| `tokens/variables.json` | Structured token data organized by collection |
+| `styles/styles-raw.json` | Raw styles API response |
+| `styles/styles.json` | Normalized styles list |
+
+> **Note:** `.env` is git-ignored. Never commit your API key.
 
 ---
 
