@@ -1,0 +1,3 @@
+// Corrected logo paths for the Shellproof Design System
+window.SHELLPROOF_LOGO = "https://raw.githubusercontent.com/loyaldesignco/Shellproof-Design-System/be5193bc7a24e2ad8adc3fb9af7ec084801f3373/assets/logos/Shellproof.svg";
+window.SHELLPROOF_LOGO_INVERT = "https://raw.githubusercontent.com/loyaldesignco/Shellproof-Design-System/be5193bc7a24e2ad8adc3fb9af7ec084801f3373/assets/logos/shellproof-logo-inverted-rgb.svg";
