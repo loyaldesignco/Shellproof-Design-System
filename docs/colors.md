@@ -1,3 +1,0 @@
-# Colors
-
-Document colors here.

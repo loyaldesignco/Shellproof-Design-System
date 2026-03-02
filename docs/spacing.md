@@ -1,3 +1,0 @@
-# Spacing
-
-Document spacing here.

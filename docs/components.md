@@ -1,3 +1,0 @@
-# Components
-
-Document components here.
