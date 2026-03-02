@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Shellproof Design System | Style Guide</title>
+
+  <!-- Typekit -->
+  <link rel="stylesheet" href="https://use.typekit.net/wya7jfy.css">
+
+  <!-- System -->
+  <link rel="stylesheet" href="../assets/fonts/fonts.css">
+  <link rel="stylesheet" href="../tokens/css-variables.css">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: var(--sp-font-body);
+      background: var(--sp-background-color_bg-primary, #0b0d12);
+      color: var(--sp-text-color_text-primary, #f4f6ff);
+      line-height: 1.6;
+    }
+
+    .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 3rem 1.5rem 4rem;
+    }
+
+    h1, h2, h3 {
+      font-family: var(--sp-font-heading);
+      letter-spacing: -0.02em;
+      margin: 0 0 1rem;
+    }
+
+    h1 { font-size: clamp(2rem, 4vw, 3rem); }
+    h2 { margin-top: 3rem; font-size: 1.5rem; }
+
+    .section { margin-bottom: 3rem; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+
+    .card {
+      background: var(--sp-card_card-primary-bg, rgba(255,255,255,0.03));
+      border: 1px solid var(--sp-card_card-primary-border, rgba(255,255,255,0.1));
+      border-radius: var(--sp-radius-lg-radius, 0.75rem);
+      padding: 1.25rem;
+    }
+
+    .color-swatch {
+      height: 60px;
+      border-radius: var(--sp-radius-md-radius, 0.5rem);
+      margin-bottom: 0.75rem;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0.9rem 1.2rem;
+      border-radius: var(--sp-radius-md-radius, 0.5rem);
+      background: var(--sp-core-accent-color_accent-primary, #5a78ff);
+      color: var(--sp-text-color_text-accent-on-primary, #fff);
+      font-weight: 700;
+      text-decoration: none;
+      border: 1px solid transparent;
+      margin-right: 0.75rem;
+    }
+
+    .btn.secondary {
+      background: transparent;
+      border-color: var(--sp-border-color_border, rgba(255,255,255,0.15));
+      color: var(--sp-text-color_text-primary);
+    }
+
+    .input {
+      width: 100%;
+      padding: 0.75rem 1rem;
+      border-radius: var(--sp-radius-md-radius, 0.5rem);
+      border: 1px solid var(--sp-border-color_border, rgba(255,255,255,0.15));
+      background: var(--sp-card_card-primary-bg, rgba(255,255,255,0.03));
+      color: var(--sp-text-color_text-primary);
+      font-family: var(--sp-font-body);
+    }
+
+    .mono {
+      font-family: var(--sp-font-mono);
+      font-size: 0.9rem;
+      opacity: 0.8;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="wrap">
+    <h1>Shellproof Design System</h1>
+    <p>Token-driven style guide powered by <span class="mono">--sp-</span> variables.</p>
+
+    <div class="section">
+      <h2>Typography</h2>
+      <div class="card">
+        <h1>Heading 1 Example</h1>
+        <h2>Heading 2 Example</h2>
+        <p>Body text uses Roboto. Headings use Obviously. Buttons inherit body unless overridden.</p>
+        <p class="mono">Monospace example using Roboto Mono.</p>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Buttons</h2>
+      <div class="card">
+        <a href="#" class="btn">Primary Button</a>
+        <a href="#" class="btn secondary">Secondary Button</a>
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Form Elements</h2>
+      <div class="card">
+        <input class="input" placeholder="Example input field">
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>Color Usage</h2>
+      <div class="grid">
+        <div class="card">
+          <div class="color-swatch" style="background: var(--sp-core-accent-color_accent-primary, #5a78ff);"></div>
+          <div class="mono">Accent Primary</div>
+        </div>
+        <div class="card">
+          <div class="color-swatch" style="background: var(--sp-background-color_bg-primary, #0b0d12);"></div>
+          <div class="mono">Background Primary</div>
+        </div>
+        <div class="card">
+          <div class="color-swatch" style="background: var(--sp-card_card-primary-bg, rgba(255,255,255,0.03));"></div>
+          <div class="mono">Card Background</div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</body>
+</html>

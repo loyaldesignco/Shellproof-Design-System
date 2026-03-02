@@ -1,0 +1,363 @@
+{
+  "generated_from": [
+    "variables (6).csv",
+    "variables (8).csv",
+    "variables (9).csv",
+    "variables (10).csv",
+    "variables (11).csv"
+  ],
+  "count": 39,
+  "items": [
+    {
+      "name": "Spacing/0.25x",
+      "type": "Size",
+      "value": "0.25",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_0_25x",
+      "css_value": "0.25rem"
+    },
+    {
+      "name": "Spacing/0.5x",
+      "type": "Size",
+      "value": "0.5",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_0_5x",
+      "css_value": "0.5rem"
+    },
+    {
+      "name": "Spacing/0.75x",
+      "type": "Size",
+      "value": "0.75",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_0_75x",
+      "css_value": "0.75rem"
+    },
+    {
+      "name": "Spacing/1x",
+      "type": "Size",
+      "value": "1",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_1x",
+      "css_value": "1rem"
+    },
+    {
+      "name": "Spacing/1.25x",
+      "type": "Size",
+      "value": "1.25",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_1_25x",
+      "css_value": "1.25rem"
+    },
+    {
+      "name": "Spacing/1.5x",
+      "type": "Size",
+      "value": "1.5",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_1_5x",
+      "css_value": "1.5rem"
+    },
+    {
+      "name": "Spacing/1.75x",
+      "type": "Size",
+      "value": "1.75",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_1_75x",
+      "css_value": "1.75rem"
+    },
+    {
+      "name": "Spacing/2x",
+      "type": "Size",
+      "value": "2",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_2x",
+      "css_value": "2rem"
+    },
+    {
+      "name": "Spacing/3x",
+      "type": "Size",
+      "value": "3",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_3x",
+      "css_value": "3rem"
+    },
+    {
+      "name": "Spacing/4x",
+      "type": "Size",
+      "value": "4",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_4x",
+      "css_value": "4rem"
+    },
+    {
+      "name": "Spacing/5x",
+      "type": "Size",
+      "value": "5",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_5x",
+      "css_value": "5rem"
+    },
+    {
+      "name": "Spacing/6x",
+      "type": "Size",
+      "value": "6",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_6x",
+      "css_value": "6rem"
+    },
+    {
+      "name": "Spacing/7x",
+      "type": "Size",
+      "value": "7",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_7x",
+      "css_value": "7rem"
+    },
+    {
+      "name": "Spacing/8x",
+      "type": "Size",
+      "value": "8",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing_8x",
+      "css_value": "8rem"
+    },
+    {
+      "name": "Gap/XXS Gap",
+      "type": "Size",
+      "value": "Spacing/0.5x",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-gap_xxs-gap",
+      "css_value": "var(--sp-spacing_0_5x)"
+    },
+    {
+      "name": "Gap/XS Gap",
+      "type": "Size",
+      "value": "Spacing/1x",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-gap_xs-gap",
+      "css_value": "var(--sp-spacing_1x)"
+    },
+    {
+      "name": "Gap/SM Gap",
+      "type": "Size",
+      "value": "Spacing/2x",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-gap_sm-gap",
+      "css_value": "var(--sp-spacing_2x)"
+    },
+    {
+      "name": "Gap/MD Gap",
+      "type": "Size",
+      "value": "Spacing/3x",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-gap_md-gap",
+      "css_value": "var(--sp-spacing_3x)"
+    },
+    {
+      "name": "Gap/LG Gap",
+      "type": "Size",
+      "value": "Spacing/4x",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-gap_lg-gap",
+      "css_value": "var(--sp-spacing_4x)"
+    },
+    {
+      "name": "Gap/XL Gap",
+      "type": "Size",
+      "value": "Spacing/5x",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-gap_xl-gap",
+      "css_value": "var(--sp-spacing_5x)"
+    },
+    {
+      "name": "Gap/XXL Gap",
+      "type": "Size",
+      "value": "Spacing/6x",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-gap_xxl-gap",
+      "css_value": "var(--sp-spacing_6x)"
+    },
+    {
+      "name": "Slider/Spacing SM",
+      "type": "Size",
+      "value": "Spacing/1x",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-slider_spacing-sm",
+      "css_value": "var(--sp-spacing_1x)"
+    },
+    {
+      "name": "IX/IX Card Spacing",
+      "type": "Size",
+      "value": "2",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-ix_ix-card-spacing",
+      "css_value": "2rem"
+    },
+    {
+      "name": "Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-spacing",
+      "css_value": "0rem"
+    },
+    {
+      "name": "Base Typography/Base Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-base-typography_base-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "H0 Heading/H0 Letter Spacing",
+      "type": "Size",
+      "value": "-0.01",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-h0-heading_h0-letter-spacing",
+      "css_value": "-0.01em"
+    },
+    {
+      "name": "H1 Heading/H1 Letter Spacing",
+      "type": "Size",
+      "value": "-0.01",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-h1-heading_h1-letter-spacing",
+      "css_value": "-0.01em"
+    },
+    {
+      "name": "H2 Heading/H2 Letter Spacing",
+      "type": "Size",
+      "value": "-0.01",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-h2-heading_h2-letter-spacing",
+      "css_value": "-0.01em"
+    },
+    {
+      "name": "H3 Heading/H3 Letter Spacing",
+      "type": "Size",
+      "value": "-0.01",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-h3-heading_h3-letter-spacing",
+      "css_value": "-0.01em"
+    },
+    {
+      "name": "H4 Heading/H4 Letter Spacing",
+      "type": "Size",
+      "value": "-0.01",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-h4-heading_h4-letter-spacing",
+      "css_value": "-0.01em"
+    },
+    {
+      "name": "H5 Heading/H5 Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-h5-heading_h5-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "H6 Heading/H6 Letter Spacing",
+      "type": "Size",
+      "value": "0.1",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-h6-heading_h6-letter-spacing",
+      "css_value": "0.1em"
+    },
+    {
+      "name": "Text SM/SM Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-sm_sm-text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text/Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text_text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text LG/LG Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-lg_lg-text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text XL/XL Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-xl_xl-text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text XXL/XXL Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-xxl_xxl-text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Blockquote/Blockquote Letter Spacing",
+      "type": "Size",
+      "value": "0.01",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-blockquote_blockquote-letter-spacing",
+      "css_value": "0.01em"
+    },
+    {
+      "name": "Eyebrow/Eyebrow Letter Spacing",
+      "type": "Size",
+      "value": "0.01",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-eyebrow_eyebrow-letter-spacing",
+      "css_value": "0.01em"
+    }
+  ]
+}

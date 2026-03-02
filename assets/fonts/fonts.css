@@ -1,0 +1,27 @@
+/* ==========================================================================
+   Shellproof Design System — Adobe Typekit Integration
+   Kit: https://use.typekit.net/wya7jfy.css
+   ========================================================================== */
+
+/* Include in <head> before tokens:
+<link rel="stylesheet" href="https://use.typekit.net/wya7jfy.css">
+*/
+
+:root {
+  /* Primary Brand Typography */
+  --sp-font-heading: "obviously", sans-serif;
+  --sp-font-heading-condensed: "obviously-condensed", sans-serif;
+  --sp-font-heading-compressed: "obviously-compressed", sans-serif;
+  --sp-font-heading-narrow: "obviously-narrow", sans-serif;
+  --sp-font-heading-wide: "obviously-wide", sans-serif;
+  --sp-font-heading-extended: "obviously-extended", sans-serif;
+  --sp-font-heading-variable: "obviously-variable", sans-serif;
+
+  /* Body Typography */
+  --sp-font-body: "roboto", sans-serif;
+  --sp-font-body-condensed: "roboto-condensed", sans-serif;
+  --sp-font-mono: "roboto-mono", monospace;
+
+  /* Buttons default to body */
+  --sp-font-button: var(--sp-font-body);
+}

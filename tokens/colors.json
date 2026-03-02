@@ -1,0 +1,1245 @@
+{
+  "generated_from": [
+    "variables (6).csv",
+    "variables (8).csv",
+    "variables (9).csv",
+    "variables (10).csv",
+    "variables (11).csv"
+  ],
+  "count": 137,
+  "items": [
+    {
+      "name": "Core Accent Color/Accent Primary",
+      "type": "Color",
+      "value": "#1b6afe",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-accent-color_accent-primary",
+      "css_value": "#1b6afe"
+    },
+    {
+      "name": "Core Accent Color/Accent Primary Hover",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 98.72%, 69.73%, 1.00)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-accent-color_accent-primary-hover",
+      "css_value": "hsla(219.11894273127757, 98.72%, 69.73%, 1.00)"
+    },
+    {
+      "name": "Core Accent Color/Accent Secondary",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-accent-color_accent-secondary",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Accent Color/Accent Secondary Hover",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-accent-color_accent-secondary-hover",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Accent Color/Accent Tertiary",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-accent-color_accent-tertiary",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Accent Color/Accent Tertiary Hover",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-accent-color_accent-tertiary-hover",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Neutral Color/Neutral Primary",
+      "type": "Color",
+      "value": "#FFFFFF",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-neutral-color_neutral-primary",
+      "css_value": "#FFFFFF"
+    },
+    {
+      "name": "Core Neutral Color/Neutral Secondary",
+      "type": "Color",
+      "value": "#F4F5F7",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-neutral-color_neutral-secondary",
+      "css_value": "#F4F5F7"
+    },
+    {
+      "name": "Core Neutral Color/Neutral Inverse",
+      "type": "Color",
+      "value": "#000000",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-neutral-color_neutral-inverse",
+      "css_value": "#000000"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A10",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.10)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a10",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.10)"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A20",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.20)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a20",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.20)"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A30",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.30)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a30",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.30)"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A40",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.40)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a40",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.40)"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A50",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.50)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a50",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.50)"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A60",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a60",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A70",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.70)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a70",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.70)"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A80",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.80)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a80",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.80)"
+    },
+    {
+      "name": "Core Color Tint/Accent Primary A90",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.90)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-primary-a90",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.90)"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A10",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a10",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A20",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a20",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A30",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a30",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A40",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a40",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A50",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a50",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A60",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a60",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A70",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a70",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A80",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a80",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Secondary A90",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-secondary-a90",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A10",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a10",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A20",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a20",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A30",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a30",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A40",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a40",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A50",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a50",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A60",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a60",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A70",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a70",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A80",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a80",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Accent Tertiary A90",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_accent-tertiary-a90",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A10",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.1)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a10",
+      "css_value": "rgba(255, 255, 255, 0.1)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A20",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.2)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a20",
+      "css_value": "rgba(255, 255, 255, 0.2)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A30",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.3)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a30",
+      "css_value": "rgba(255, 255, 255, 0.3)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A40",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.4)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a40",
+      "css_value": "rgba(255, 255, 255, 0.4)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A50",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.5)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a50",
+      "css_value": "rgba(255, 255, 255, 0.5)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A60",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.6)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a60",
+      "css_value": "rgba(255, 255, 255, 0.6)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A70",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.7)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a70",
+      "css_value": "rgba(255, 255, 255, 0.7)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A80",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.8)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a80",
+      "css_value": "rgba(255, 255, 255, 0.8)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Primary A90",
+      "type": "Color",
+      "value": "rgba(255, 255, 255, 0.9)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-primary-a90",
+      "css_value": "rgba(255, 255, 255, 0.9)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A10",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.1)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a10",
+      "css_value": "rgba(0, 0, 0, 0.1)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A20",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.2)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a20",
+      "css_value": "rgba(0, 0, 0, 0.2)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A30",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.3)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a30",
+      "css_value": "rgba(0, 0, 0, 0.3)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A40",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.4)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a40",
+      "css_value": "rgba(0, 0, 0, 0.4)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A50",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.5)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a50",
+      "css_value": "rgba(0, 0, 0, 0.5)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A60",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.6)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a60",
+      "css_value": "rgba(0, 0, 0, 0.6)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A70",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.7)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a70",
+      "css_value": "rgba(0, 0, 0, 0.7)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A80",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.8)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a80",
+      "css_value": "rgba(0, 0, 0, 0.8)"
+    },
+    {
+      "name": "Core Color Tint/Neutral Inverse A90",
+      "type": "Color",
+      "value": "rgba(0, 0, 0, 0.9)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-core-color-tint_neutral-inverse-a90",
+      "css_value": "rgba(0, 0, 0, 0.9)"
+    },
+    {
+      "name": "Background Color/BG Primary",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-background-color_bg-primary",
+      "css_value": "var(--sp-core-neutral-color_neutral-primary)"
+    },
+    {
+      "name": "Background Color/BG Secondary",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Secondary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-background-color_bg-secondary",
+      "css_value": "var(--sp-core-neutral-color_neutral-secondary)"
+    },
+    {
+      "name": "Background Color/BG Accent Primary",
+      "type": "Color",
+      "value": "Core Accent Color/Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-background-color_bg-accent-primary",
+      "css_value": "var(--sp-core-accent-color_accent-primary)"
+    },
+    {
+      "name": "Background Color/BG Accent Secondary",
+      "type": "Color",
+      "value": "Core Accent Color/Accent Secondary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-background-color_bg-accent-secondary",
+      "css_value": "var(--sp-core-accent-color_accent-secondary)"
+    },
+    {
+      "name": "Background Color/BG Accent Tertiary",
+      "type": "Color",
+      "value": "Core Accent Color/Accent Tertiary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-background-color_bg-accent-tertiary",
+      "css_value": "var(--sp-core-accent-color_accent-tertiary)"
+    },
+    {
+      "name": "Background Color/BG Inverse",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Inverse",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-background-color_bg-inverse",
+      "css_value": "var(--sp-core-neutral-color_neutral-inverse)"
+    },
+    {
+      "name": "Background Color/BG Overlay",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Inverse",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-background-color_bg-overlay",
+      "css_value": "var(--sp-core-neutral-color_neutral-inverse)"
+    },
+    {
+      "name": "Text Color/Text Primary",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Inverse",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-primary",
+      "css_value": "var(--sp-core-neutral-color_neutral-inverse)"
+    },
+    {
+      "name": "Text Color/Text Secondary",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Inverse A60",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-secondary",
+      "css_value": "var(--sp-core-color-tint_neutral-inverse-a60)"
+    },
+    {
+      "name": "Text Color/Text Inverse Primary",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-inverse-primary",
+      "css_value": "var(--sp-core-neutral-color_neutral-primary)"
+    },
+    {
+      "name": "Text Color/Text Inverse Secondary",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Primary A60",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-inverse-secondary",
+      "css_value": "var(--sp-core-color-tint_neutral-primary-a60)"
+    },
+    {
+      "name": "Text Color/Text On Accent Primary",
+      "type": "Color",
+      "value": "#FFFFFF",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-on-accent-primary",
+      "css_value": "#FFFFFF"
+    },
+    {
+      "name": "Text Color/Text On Accent Secondary",
+      "type": "Color",
+      "value": "#000000",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-on-accent-secondary",
+      "css_value": "#000000"
+    },
+    {
+      "name": "Text Color/Text On Accent Tertiary",
+      "type": "Color",
+      "value": "#000000",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-on-accent-tertiary",
+      "css_value": "#000000"
+    },
+    {
+      "name": "Text Color/Text Accent On Primary",
+      "type": "Color",
+      "value": "#1b6afe",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-accent-on-primary",
+      "css_value": "#1b6afe"
+    },
+    {
+      "name": "Text Color/Text Accent On Primary Hover",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-accent-on-primary-hover",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)"
+    },
+    {
+      "name": "Text Color/Text Accent On Inverse",
+      "type": "Color",
+      "value": "#1b6afe",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-accent-on-inverse",
+      "css_value": "#1b6afe"
+    },
+    {
+      "name": "Text Color/Text Accent On Inverse Hover",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-accent-on-inverse-hover",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)"
+    },
+    {
+      "name": "Text Color/Text On Overlay",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-on-overlay",
+      "css_value": "var(--sp-core-neutral-color_neutral-primary)"
+    },
+    {
+      "name": "Border Color/Border Primary",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Inverse A10",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-border-color_border-primary",
+      "css_value": "var(--sp-core-color-tint_neutral-inverse-a10)"
+    },
+    {
+      "name": "Border Color/Border Secondary",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Inverse A20",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-border-color_border-secondary",
+      "css_value": "var(--sp-core-color-tint_neutral-inverse-a20)"
+    },
+    {
+      "name": "Border Color/Border Inverse Primary",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Primary A20",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-border-color_border-inverse-primary",
+      "css_value": "var(--sp-core-color-tint_neutral-primary-a20)"
+    },
+    {
+      "name": "Border Color/Border Inverse Secondary",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Primary A10",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-border-color_border-inverse-secondary",
+      "css_value": "var(--sp-core-color-tint_neutral-primary-a10)"
+    },
+    {
+      "name": "Border Color/Border Accent",
+      "type": "Color",
+      "value": "Core Accent Color/Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-border-color_border-accent",
+      "css_value": "var(--sp-core-accent-color_accent-primary)"
+    },
+    {
+      "name": "Blockquote/Blockquote BG",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-blockquote_blockquote-bg",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Blockquote/Blockquote Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-blockquote_blockquote-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Blockquote/Blockquote Border",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-blockquote_blockquote-border",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Button/Button Primary - BG",
+      "type": "Color",
+      "value": "Core Accent Color/Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-button_button-primary-bg",
+      "css_value": "var(--sp-core-accent-color_accent-primary)"
+    },
+    {
+      "name": "Button/Button Primary - BG Hover",
+      "type": "Color",
+      "value": "Core Accent Color/Accent Primary Hover",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-button_button-primary-bg-hover",
+      "css_value": "var(--sp-core-accent-color_accent-primary-hover)"
+    },
+    {
+      "name": "Button/Button Primary - Text",
+      "type": "Color",
+      "value": "Text Color/Text On Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-button_button-primary-text",
+      "css_value": "var(--sp-text-color_text-on-accent-primary)"
+    },
+    {
+      "name": "Button/Button Primary - Border",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-button_button-primary-border",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Button/Button Primary - Border Hover",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-button_button-primary-border-hover",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Button/Button Secondary - BG",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-button_button-secondary-bg",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Button/Button Secondary - BG Hover",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-button_button-secondary-bg-hover",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Button/Button Secondary - Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-button_button-secondary-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Button/Button Secondary - Border",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-button_button-secondary-border",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Button/Button Secondary - Border Hover",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-button_button-secondary-border-hover",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Input/Input Primary - BG",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-input_input-primary-bg",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Input/Input Primary - BG Hover",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-input_input-primary-bg-hover",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Input/Input Primary - Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-primary-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Input/Input Primary - Text Placeholder",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Inverse A20",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-primary-text-placeholder",
+      "css_value": "var(--sp-core-color-tint_neutral-inverse-a20)"
+    },
+    {
+      "name": "Input/Input Primary - Border",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-primary-border",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Input/Input Primary - Border Hover",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-primary-border-hover",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Input/Input Inverse - BG",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-input_input-inverse-bg",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Input/Input Inverse - BG Hover",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-input_input-inverse-bg-hover",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Input/Input Inverse - Text",
+      "type": "Color",
+      "value": "Text Color/Text Inverse Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-inverse-text",
+      "css_value": "var(--sp-text-color_text-inverse-primary)"
+    },
+    {
+      "name": "Input/Input Inverse - Text Placeholder",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Primary A50",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-inverse-text-placeholder",
+      "css_value": "var(--sp-core-color-tint_neutral-primary-a50)"
+    },
+    {
+      "name": "Input/Input Inverse - Border",
+      "type": "Color",
+      "value": "Text Color/Text Inverse Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-inverse-border",
+      "css_value": "var(--sp-text-color_text-inverse-primary)"
+    },
+    {
+      "name": "Input/Input Inverse - Border Hover",
+      "type": "Color",
+      "value": "Text Color/Text Inverse Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-inverse-border-hover",
+      "css_value": "var(--sp-text-color_text-inverse-primary)"
+    },
+    {
+      "name": "Input/Input Control",
+      "type": "Color",
+      "value": "Core Accent Color/Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-control",
+      "css_value": "var(--sp-core-accent-color_accent-primary)"
+    },
+    {
+      "name": "Input/Input Control Border",
+      "type": "Color",
+      "value": "Core Accent Color/Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-control-border",
+      "css_value": "var(--sp-core-accent-color_accent-primary)"
+    },
+    {
+      "name": "Card/Card Primary - BG",
+      "type": "Color",
+      "value": "Background Color/BG Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-primary-bg",
+      "css_value": "var(--sp-background-color_bg-primary)"
+    },
+    {
+      "name": "Card/Card Primary - BG Hover",
+      "type": "Color",
+      "value": "Background Color/BG Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-primary-bg-hover",
+      "css_value": "var(--sp-background-color_bg-primary)"
+    },
+    {
+      "name": "Card/Card Primary - Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-primary-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Card/Card Primary - Border",
+      "type": "Color",
+      "value": "Border Color/Border Secondary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-primary-border",
+      "css_value": "var(--sp-border-color_border-secondary)"
+    },
+    {
+      "name": "Card/Card Secondary - BG",
+      "type": "Color",
+      "value": "Background Color/BG Secondary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-secondary-bg",
+      "css_value": "var(--sp-background-color_bg-secondary)"
+    },
+    {
+      "name": "Card/Card Secondary - BG Hover",
+      "type": "Color",
+      "value": "Background Color/BG Secondary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-secondary-bg-hover",
+      "css_value": "var(--sp-background-color_bg-secondary)"
+    },
+    {
+      "name": "Card/Card Secondary - Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-secondary-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Card/Card Secondary - Border",
+      "type": "Color",
+      "value": "Border Color/Border Secondary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-secondary-border",
+      "css_value": "var(--sp-border-color_border-secondary)"
+    },
+    {
+      "name": "Card/Card Accent Primary - BG",
+      "type": "Color",
+      "value": "Background Color/BG Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-accent-primary-bg",
+      "css_value": "var(--sp-background-color_bg-accent-primary)"
+    },
+    {
+      "name": "Card/Card Accent Primary - BG Hover",
+      "type": "Color",
+      "value": "Background Color/BG Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-accent-primary-bg-hover",
+      "css_value": "var(--sp-background-color_bg-accent-primary)"
+    },
+    {
+      "name": "Card/Card Accent Primary - Text",
+      "type": "Color",
+      "value": "white",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-primary-text",
+      "css_value": "white"
+    },
+    {
+      "name": "Card/Card Accent Primary - Border",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-primary-border",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Card/Card Accent Secondary - BG",
+      "type": "Color",
+      "value": "Background Color/BG Accent Secondary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-accent-secondary-bg",
+      "css_value": "var(--sp-background-color_bg-accent-secondary)"
+    },
+    {
+      "name": "Card/Card Accent Secondary - BG Hover",
+      "type": "Color",
+      "value": "Background Color/BG Accent Secondary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-accent-secondary-bg-hover",
+      "css_value": "var(--sp-background-color_bg-accent-secondary)"
+    },
+    {
+      "name": "Card/Card Accent Secondary - Text",
+      "type": "Color",
+      "value": "white",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-secondary-text",
+      "css_value": "white"
+    },
+    {
+      "name": "Card/Card Accent Secondary - Border",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-secondary-border",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Card/Card Accent Tertiary - BG",
+      "type": "Color",
+      "value": "Background Color/BG Accent Tertiary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-accent-tertiary-bg",
+      "css_value": "var(--sp-background-color_bg-accent-tertiary)"
+    },
+    {
+      "name": "Card/Card Accent Tertiary - BG Hover",
+      "type": "Color",
+      "value": "Background Color/BG Accent Tertiary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-accent-tertiary-bg-hover",
+      "css_value": "var(--sp-background-color_bg-accent-tertiary)"
+    },
+    {
+      "name": "Card/Card Accent Tertiary - Text",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-tertiary-text",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Card/Card Accent Tertiary - Border",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-tertiary-border",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Card/Card Inverse - BG",
+      "type": "Color",
+      "value": "Background Color/BG Inverse",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-inverse-bg",
+      "css_value": "var(--sp-background-color_bg-inverse)"
+    },
+    {
+      "name": "Card/Card Inverse - BG Hover",
+      "type": "Color",
+      "value": "Background Color/BG Inverse",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-inverse-bg-hover",
+      "css_value": "var(--sp-background-color_bg-inverse)"
+    },
+    {
+      "name": "Card/Card Inverse - Text",
+      "type": "Color",
+      "value": "Text Color/Text Inverse Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-inverse-text",
+      "css_value": "var(--sp-text-color_text-inverse-primary)"
+    },
+    {
+      "name": "Card/Card Inverse - Border",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-inverse-border",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Nav Link/Nav Link Primary",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-nav-link_nav-link-primary",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Nav Link/Nav Link Inverse",
+      "type": "Color",
+      "value": "Text Color/Text Inverse Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-nav-link_nav-link-inverse",
+      "css_value": "var(--sp-text-color_text-inverse-primary)"
+    },
+    {
+      "name": "Text Link/Link Primary",
+      "type": "Color",
+      "value": "Text Color/Text Accent On Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-primary",
+      "css_value": "var(--sp-text-color_text-accent-on-primary)"
+    },
+    {
+      "name": "Text Link/Link Primary Hover",
+      "type": "Color",
+      "value": "Text Color/Text Accent On Primary Hover",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-primary-hover",
+      "css_value": "var(--sp-text-color_text-accent-on-primary-hover)"
+    },
+    {
+      "name": "Text Link/Link Secondary",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-secondary",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Text Link/Link Secondary Hover",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Inverse A60",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-secondary-hover",
+      "css_value": "var(--sp-core-color-tint_neutral-inverse-a60)"
+    },
+    {
+      "name": "Text Link/Link Inverse",
+      "type": "Color",
+      "value": "Text Color/Text Accent On Inverse",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-inverse",
+      "css_value": "var(--sp-text-color_text-accent-on-inverse)"
+    },
+    {
+      "name": "Text Link/Link Inverse Hover",
+      "type": "Color",
+      "value": "Text Color/Text Accent On Inverse Hover",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-inverse-hover",
+      "css_value": "var(--sp-text-color_text-accent-on-inverse-hover)"
+    }
+  ]
+}

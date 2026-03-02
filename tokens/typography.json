@@ -1,0 +1,543 @@
+{
+  "generated_from": [
+    "variables (6).csv",
+    "variables (8).csv",
+    "variables (9).csv",
+    "variables (10).csv",
+    "variables (11).csv"
+  ],
+  "count": 59,
+  "items": [
+    {
+      "name": "Text Color/Text Primary",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Inverse",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-primary",
+      "css_value": "var(--sp-core-neutral-color_neutral-inverse)"
+    },
+    {
+      "name": "Text Color/Text Secondary",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Inverse A60",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-secondary",
+      "css_value": "var(--sp-core-color-tint_neutral-inverse-a60)"
+    },
+    {
+      "name": "Text Color/Text Inverse Primary",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-inverse-primary",
+      "css_value": "var(--sp-core-neutral-color_neutral-primary)"
+    },
+    {
+      "name": "Text Color/Text Inverse Secondary",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Primary A60",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-inverse-secondary",
+      "css_value": "var(--sp-core-color-tint_neutral-primary-a60)"
+    },
+    {
+      "name": "Text Color/Text On Accent Primary",
+      "type": "Color",
+      "value": "#FFFFFF",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-on-accent-primary",
+      "css_value": "#FFFFFF"
+    },
+    {
+      "name": "Text Color/Text On Accent Secondary",
+      "type": "Color",
+      "value": "#000000",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-on-accent-secondary",
+      "css_value": "#000000"
+    },
+    {
+      "name": "Text Color/Text On Accent Tertiary",
+      "type": "Color",
+      "value": "#000000",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-on-accent-tertiary",
+      "css_value": "#000000"
+    },
+    {
+      "name": "Text Color/Text Accent On Primary",
+      "type": "Color",
+      "value": "#1b6afe",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-accent-on-primary",
+      "css_value": "#1b6afe"
+    },
+    {
+      "name": "Text Color/Text Accent On Primary Hover",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-accent-on-primary-hover",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)"
+    },
+    {
+      "name": "Text Color/Text Accent On Inverse",
+      "type": "Color",
+      "value": "#1b6afe",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-accent-on-inverse",
+      "css_value": "#1b6afe"
+    },
+    {
+      "name": "Text Color/Text Accent On Inverse Hover",
+      "type": "Color",
+      "value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-text-color_text-accent-on-inverse-hover",
+      "css_value": "hsla(219.11894273127757, 99.13%, 55.10%, 0.60)"
+    },
+    {
+      "name": "Text Color/Text On Overlay",
+      "type": "Color",
+      "value": "Core Neutral Color/Neutral Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-color_text-on-overlay",
+      "css_value": "var(--sp-core-neutral-color_neutral-primary)"
+    },
+    {
+      "name": "Blockquote/Blockquote Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-blockquote_blockquote-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Button/Button Primary - Text",
+      "type": "Color",
+      "value": "Text Color/Text On Accent Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-button_button-primary-text",
+      "css_value": "var(--sp-text-color_text-on-accent-primary)"
+    },
+    {
+      "name": "Button/Button Secondary - Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-button_button-secondary-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Input/Input Primary - Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-primary-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Input/Input Primary - Text Placeholder",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Inverse A20",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-primary-text-placeholder",
+      "css_value": "var(--sp-core-color-tint_neutral-inverse-a20)"
+    },
+    {
+      "name": "Input/Input Inverse - Text",
+      "type": "Color",
+      "value": "Text Color/Text Inverse Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-inverse-text",
+      "css_value": "var(--sp-text-color_text-inverse-primary)"
+    },
+    {
+      "name": "Input/Input Inverse - Text Placeholder",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Primary A50",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-input_input-inverse-text-placeholder",
+      "css_value": "var(--sp-core-color-tint_neutral-primary-a50)"
+    },
+    {
+      "name": "Card/Card Primary - Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-primary-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Card/Card Secondary - Text",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-secondary-text",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Card/Card Accent Primary - Text",
+      "type": "Color",
+      "value": "white",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-primary-text",
+      "css_value": "white"
+    },
+    {
+      "name": "Card/Card Accent Secondary - Text",
+      "type": "Color",
+      "value": "white",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-secondary-text",
+      "css_value": "white"
+    },
+    {
+      "name": "Card/Card Accent Tertiary - Text",
+      "type": "Color",
+      "value": "transparent",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-card_card-accent-tertiary-text",
+      "css_value": "transparent"
+    },
+    {
+      "name": "Card/Card Inverse - Text",
+      "type": "Color",
+      "value": "Text Color/Text Inverse Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-card_card-inverse-text",
+      "css_value": "var(--sp-text-color_text-inverse-primary)"
+    },
+    {
+      "name": "Text Link/Link Primary",
+      "type": "Color",
+      "value": "Text Color/Text Accent On Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-primary",
+      "css_value": "var(--sp-text-color_text-accent-on-primary)"
+    },
+    {
+      "name": "Text Link/Link Primary Hover",
+      "type": "Color",
+      "value": "Text Color/Text Accent On Primary Hover",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-primary-hover",
+      "css_value": "var(--sp-text-color_text-accent-on-primary-hover)"
+    },
+    {
+      "name": "Text Link/Link Secondary",
+      "type": "Color",
+      "value": "Text Color/Text Primary",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-secondary",
+      "css_value": "var(--sp-text-color_text-primary)"
+    },
+    {
+      "name": "Text Link/Link Secondary Hover",
+      "type": "Color",
+      "value": "Core Color Tint/Neutral Inverse A60",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-secondary-hover",
+      "css_value": "var(--sp-core-color-tint_neutral-inverse-a60)"
+    },
+    {
+      "name": "Text Link/Link Inverse",
+      "type": "Color",
+      "value": "Text Color/Text Accent On Inverse",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-inverse",
+      "css_value": "var(--sp-text-color_text-accent-on-inverse)"
+    },
+    {
+      "name": "Text Link/Link Inverse Hover",
+      "type": "Color",
+      "value": "Text Color/Text Accent On Inverse Hover",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-text-link_link-inverse-hover",
+      "css_value": "var(--sp-text-color_text-accent-on-inverse-hover)"
+    },
+    {
+      "name": "Font/Heading Font",
+      "type": "FontFamily",
+      "value": "obviously-wide",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-font_heading-font",
+      "css_value": "obviously-wide"
+    },
+    {
+      "name": "Font/Body Font",
+      "type": "FontFamily",
+      "value": "roboto-mono",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-font_body-font",
+      "css_value": "roboto-mono"
+    },
+    {
+      "name": "Font/Button Font",
+      "type": "FontFamily",
+      "value": "roboto-mono",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-font_button-font",
+      "css_value": "roboto-mono"
+    },
+    {
+      "name": "Base Typography/Base Font",
+      "type": "FontFamily",
+      "value": "Font/Body Font",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-base-typography_base-font",
+      "css_value": "var(--sp-font_body-font)"
+    },
+    {
+      "name": "Base Typography/Base Font Size",
+      "type": "Size",
+      "value": "1",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-base-typography_base-font-size",
+      "css_value": "1rem"
+    },
+    {
+      "name": "Base Typography/Base Font Weight",
+      "type": "Number",
+      "value": "400",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-base-typography_base-font-weight",
+      "css_value": "400"
+    },
+    {
+      "name": "Base Typography/Base Font Weight Bold",
+      "type": "Number",
+      "value": "500",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-base-typography_base-font-weight-bold",
+      "css_value": "500"
+    },
+    {
+      "name": "Base Typography/Base Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-base-typography_base-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Base Typography/Base Line Height",
+      "type": "Size",
+      "value": "1.6",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-base-typography_base-line-height",
+      "css_value": "1.6rem"
+    },
+    {
+      "name": "Base Typography/Base Margin Bottom",
+      "type": "Size",
+      "value": "0.75",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-base-typography_base-margin-bottom",
+      "css_value": "0.75em"
+    },
+    {
+      "name": "Text SM/SM Text Size",
+      "type": "Size",
+      "value": "0.88",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-text-sm_sm-text-size",
+      "css_value": "0.88rem"
+    },
+    {
+      "name": "Text SM/SM Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-sm_sm-text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text SM/SM Text Line Height",
+      "type": "Size",
+      "value": "1.6",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-sm_sm-text-line-height",
+      "css_value": "1.6em"
+    },
+    {
+      "name": "Text/Text Size",
+      "type": "Size",
+      "value": "1",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-text_text-size",
+      "css_value": "1rem"
+    },
+    {
+      "name": "Text/Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text_text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text/Text Line Height",
+      "type": "Size",
+      "value": "1.6",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text_text-line-height",
+      "css_value": "1.6em"
+    },
+    {
+      "name": "Text LG/LG Text Size",
+      "type": "Size",
+      "value": "1.13",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-text-lg_lg-text-size",
+      "css_value": "1.13rem"
+    },
+    {
+      "name": "Text LG/LG Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-lg_lg-text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text LG/LG Text Line Height",
+      "type": "Size",
+      "value": "1.6",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-lg_lg-text-line-height",
+      "css_value": "1.6em"
+    },
+    {
+      "name": "Text XL/XL Text Size",
+      "type": "Size",
+      "value": "1.5",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-text-xl_xl-text-size",
+      "css_value": "1.5rem"
+    },
+    {
+      "name": "Text XL/XL Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-xl_xl-text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text XL/XL Text Line Height",
+      "type": "Size",
+      "value": "1.6",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-xl_xl-text-line-height",
+      "css_value": "1.6em"
+    },
+    {
+      "name": "Text XXL/XXL Text Size",
+      "type": "Size",
+      "value": "2",
+      "unit": "rem",
+      "linked": false,
+      "css_var": "--sp-text-xxl_xxl-text-size",
+      "css_value": "2rem"
+    },
+    {
+      "name": "Text XXL/XXL Text Letter Spacing",
+      "type": "Size",
+      "value": "0",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-xxl_xxl-text-letter-spacing",
+      "css_value": "0em"
+    },
+    {
+      "name": "Text XXL/XXL Text Line Height",
+      "type": "Size",
+      "value": "1.6",
+      "unit": "em",
+      "linked": false,
+      "css_var": "--sp-text-xxl_xxl-text-line-height",
+      "css_value": "1.6em"
+    },
+    {
+      "name": "Blockquote/Blockquote Font",
+      "type": "FontFamily",
+      "value": "Georgia",
+      "unit": null,
+      "linked": false,
+      "css_var": "--sp-blockquote_blockquote-font",
+      "css_value": "Georgia"
+    },
+    {
+      "name": "Eyebrow/Eyebrow Font",
+      "type": "FontFamily",
+      "value": "Font/Body Font",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-eyebrow_eyebrow-font",
+      "css_value": "var(--sp-font_body-font)"
+    },
+    {
+      "name": "Button/Button Font",
+      "type": "FontFamily",
+      "value": "Font/Button Font",
+      "unit": null,
+      "linked": true,
+      "css_var": "--sp-button_button-font",
+      "css_value": "var(--sp-font_button-font)"
+    }
+  ]
+}
