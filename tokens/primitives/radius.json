@@ -1,0 +1,12 @@
+{
+  "radius": {
+    "sm": { "value": 4 },
+    "md": { "value": 8 },
+    "lg": { "value": 12 },
+    "xl": { "value": 16 },
+    "round": { "value": 1000 },
+    "button": { "value": 12 },
+    "input": { "value": 12 },
+    "card": { "value": 16 }
+  }
+}

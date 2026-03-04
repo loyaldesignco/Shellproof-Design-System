@@ -1,0 +1,11 @@
+{
+  "stroke": {
+    "border": {
+      "primary": { "value": "{stroke.borderWidth}" },
+      "secondary": { "value": "{stroke.borderWidth}" }
+    },
+    "divider": {
+      "default": { "value": "{stroke.dividerWidth}" }
+    }
+  }
+}

@@ -1,106 +1,33 @@
-﻿# Shellproof Design System
+# ShellProof Design System (Tokens)
 
-The Shellproof Design System is the single source of truth for UI styling.
+This repository contains the design tokens for the ShellProof design system. Tokens are organized into a hierarchical structure to support multi‑platform usage (e.g. Webflow, React, or documentation sites).
 
-This repository is structured to be:
-- AI-friendly
-- Developer-friendly
-- Theme-aware (Light + Dark)
-- Fully token-driven
-
----
-
-# Fonts
-
-Load Adobe Typekit BEFORE loading tokens:
-
-```html
-<link rel="stylesheet" href="https://use.typekit.net/wya7jfy.css">
-```
-
-### Heading Font
-- obviously-wide
-- Allowed weights:
-  - 400 (Regular)
-  - 500 (Medium)
-
-### Body Font
-- roboto-mono
-
-No other heading weights are allowed.
-
----
-
-# Themes
-
-The system supports:
-
-- Light (default)
-- Dark
-
-Dark mode is activated using:
-
-```html
-<html data-theme="dark">
-```
-
-If no theme is specified, Light is assumed.
-
----
-
-# Repository Structure
+## Directory structure
 
 ```
-Shellproof-Design-System
-│
-├── new_tokens/        (Edit tokens here)
-│   ├── primitives/
-│   ├── semantic/
-│   └── themes/
-│
-├── dist/              (Generated output – do not edit manually)
-│   └── css/
-│
-├── schemas/
-├── scripts/
-├── DESIGN_WITH_AI.md
-└── README.md
+tokens/
+  primitives/   # Raw, platform‑agnostic values (color, space, typography, radius, stroke)
+  semantic/     # Meaningful aliases that describe usage (text, background, section spacing)
+  components/   # Component‑specific tokens (button, card, input, layout)
+  themes/       # Placeholders for light/dark themes (unused in this version)
+  brand/        # Brand overrides (unused in this version)
 ```
 
----
+### Primitives
+Primitive tokens define the base values used throughout the system. They should not encode context or semantics—only raw values. For example, `space.3` is `12` and can be applied to any property that expects a spacing unit.
 
-# How To Use (No Build Required)
+### Semantic tokens
+Semantic tokens map meaning to primitives. They describe how the design system should use colours, spacing or typography in a given context (e.g. `color.text.primary` refers to the primary text colour, regardless of its underlying value).
 
-Teammates do NOT need Node or npm.
+### Component tokens
+Component tokens provide guidance for specific UI elements. A `button` uses `color.accent.primary` for its background and `color.text.inverse` for its text, while a `card` uses `color.background.primary` and `color.border.default`.
 
-Include tokens in your project like this:
+## Contributing
 
-```html
-<link rel="stylesheet" href="https://use.typekit.net/wya7jfy.css">
-<link rel="stylesheet" href="/path/to/dist/css/tokens.css">
-```
+All design tokens are defined in JSON files. When adding or modifying tokens, please ensure that you:
 
-Then use CSS variables:
+1. Define the raw values in `primitives`.
+2. Reference primitives in `semantic` definitions.
+3. Reference semantic tokens in `components` definitions.
 
-```css
-.button {
-  background: var(--sp-button_button-primary-bg);
-  color: var(--sp-button_button-primary-text);
-  padding: var(--sp-spacing_1x);
-  border-radius: var(--sp-radius_md-radius);
-}
-```
-
----
-
-# Editing Rules
-
-- Do NOT edit files inside `dist/`
-- Edit tokens inside `new_tokens/`
-- Commit both source and generated output
-
----
-
-For AI usage instructions, see:
-
-→ DESIGN_WITH_AI.md
+This layered approach keeps tokens maintainable and extensible.
