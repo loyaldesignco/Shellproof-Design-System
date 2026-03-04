@@ -1,0 +1,68 @@
+/* Shellproof Design System – Custom CSS with Adobe Fonts
+   This stylesheet imports your Typekit kit and maps the kit’s fonts
+   to CSS variables for easy use throughout your site.  Replace or
+   extend the variables below if you wish to use additional fonts from
+   the kit.  See the provided @font-face declarations for all available
+   families (roboto, roboto-condensed, roboto-mono, obviously, obviously-compressed,
+   obviously-condensed, obviously-extended, obviously-narrow, obviously-wide,
+   obviously-variable).
+*/
+
+/* Import the Adobe Fonts kit.  This line loads the kit CSS. */
+@import url("https://use.typekit.net/wya7jfy.css");
+
+/* Define font variables based on the kit’s fonts.  You can add more
+   variables or change these assignments to suit your design. */
+:root {
+  /* Headings use the wide variant of the Obviously family. */
+  --sp-font-heading: "obviously-wide", sans-serif;
+  /* Body text uses the Roboto family. */
+  --sp-font-body: "roboto", sans-serif;
+  /* Monospace text (code snippets) uses Roboto Mono. */
+  --sp-font-mono: "roboto-mono", monospace;
+  /* Condensed text (optional) uses Roboto Condensed. */
+  --sp-font-condensed: "roboto-condensed", sans-serif;
+  /* Secondary headings or narrow text can use Obviously-Narrow. */
+  --sp-font-narrow: "obviously-narrow", sans-serif;
+}
+
+/* Base typography */
+body {
+  font-family: var(--sp-font-body);
+  font-weight: 400;
+  line-height: 1.6;
+  color: #000;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--sp-font-heading);
+  margin-top: 0;
+  margin-bottom: 0.5em;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+/* Apply monospace font to code elements */
+code, pre {
+  font-family: var(--sp-font-mono);
+}
+
+/* Optional utility classes for specific font families */
+.text-heading   { font-family: var(--sp-font-heading); }
+.text-body      { font-family: var(--sp-font-body); }
+.text-mono      { font-family: var(--sp-font-mono); }
+.text-condensed { font-family: var(--sp-font-condensed); }
+.text-narrow    { font-family: var(--sp-font-narrow); }
+
+/* Example component overrides.  You can customise your components
+   according to the Shellproof design system tokens here. */
+button,
+input,
+select,
+textarea {
+  font-family: var(--sp-font-body);
+}
+
