@@ -1,0 +1,1 @@
+# LinkedIn Post Template\n\n## Hook\n\n## Context\n\n## Insight\n\n## Practical Takeaway\n\n## Call to Action\n

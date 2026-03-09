@@ -1,7 +1,0 @@
-{
-  "radius": {
-    "button": { "value": "{radius.lg}" },
-    "card": { "value": "{radius.xl}" },
-    "input": { "value": "{radius.lg}" }
-  }
-}

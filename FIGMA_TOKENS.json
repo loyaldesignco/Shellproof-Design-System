@@ -1,0 +1,14 @@
+{
+  "color": {
+    "primary": {
+      "default": {
+        "value": "#1B6AFE"
+      }
+    }
+  },
+  "radius": {
+    "medium": {
+      "value": "8px"
+    }
+  }
+}

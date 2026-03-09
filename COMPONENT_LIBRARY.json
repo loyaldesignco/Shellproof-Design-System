@@ -1,0 +1,45 @@
+{
+  "buttons": {
+    "primary": {
+      "background": "color-primary",
+      "text_color": "color-white",
+      "radius": "radius-medium",
+      "shadow": "shadow-small",
+      "padding": "12px 20px"
+    },
+    "secondary": {
+      "background": "color-neutral-darkest",
+      "text_color": "color-white",
+      "radius": "radius-medium",
+      "shadow": "shadow-small",
+      "padding": "12px 20px"
+    },
+    "outline": {
+      "background": "transparent",
+      "border": "1px solid color-primary",
+      "text_color": "color-primary",
+      "radius": "radius-medium",
+      "padding": "12px 20px"
+    }
+  },
+  "inputs": {
+    "text_input": {
+      "background": "color-white",
+      "border": "1px solid color-neutral-light",
+      "radius": "radius-small",
+      "padding": "12px 16px"
+    },
+    "textarea": {
+      "background": "color-white",
+      "border": "1px solid color-neutral-light",
+      "radius": "radius-small",
+      "padding": "12px 16px"
+    },
+    "select": {
+      "background": "color-white",
+      "border": "1px solid color-neutral-light",
+      "radius": "radius-small",
+      "padding": "12px 16px"
+    }
+  }
+}

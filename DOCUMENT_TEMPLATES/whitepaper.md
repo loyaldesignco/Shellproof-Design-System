@@ -1,0 +1,1 @@
+# [Whitepaper Title]\n\n## Executive Summary\n\n## Industry Context\n\n## Problem Definition\n\n## Risk Analysis\n\n## Framework or Methodology\n\n## Recommendations\n\n## Conclusion\n\n## Call to Action\n

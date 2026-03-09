@@ -1,0 +1,91 @@
+{
+  "font_families": {
+    "heading": "Obviously Wide Medium",
+    "body": "Roboto Mono",
+    "mono": "Roboto Mono"
+  },
+  "font_weights": {
+    "light": 300,
+    "normal": 400,
+    "medium": 500,
+    "semibold": 600,
+    "bold": 700,
+    "extrabold": 800
+  },
+  "heading_scale": {
+    "h1_desktop": {
+      "size": "84px",
+      "line_height": "100%"
+    },
+    "h1_mobile": {
+      "size": "48px",
+      "line_height": "100%"
+    },
+    "h2_desktop": {
+      "size": "60px",
+      "line_height": "100%"
+    },
+    "h2_mobile": {
+      "size": "44px",
+      "line_height": "100%"
+    },
+    "h3_desktop": {
+      "size": "48px",
+      "line_height": "100%"
+    },
+    "h3_mobile": {
+      "size": "32px",
+      "line_height": "100%"
+    },
+    "h4_desktop": {
+      "size": "40px",
+      "line_height": "100%"
+    },
+    "h4_mobile": {
+      "size": "24px",
+      "line_height": "110%"
+    },
+    "h5_desktop": {
+      "size": "32px",
+      "line_height": "110%"
+    },
+    "h5_mobile": {
+      "size": "20px",
+      "line_height": "110%"
+    },
+    "h6_desktop": {
+      "size": "26px",
+      "line_height": "110%"
+    },
+    "h6_mobile": {
+      "size": "18px",
+      "line_height": "110%"
+    }
+  },
+  "body_scale": {
+    "tagline": {
+      "size": "16px",
+      "line_height": "150%"
+    },
+    "text_large": {
+      "size": "26px",
+      "line_height": "150%"
+    },
+    "text_medium": {
+      "size": "20px",
+      "line_height": "150%"
+    },
+    "text_regular": {
+      "size": "18px",
+      "line_height": "150%"
+    },
+    "text_small": {
+      "size": "16px",
+      "line_height": "150%"
+    },
+    "text_tiny": {
+      "size": "12px",
+      "line_height": "150%"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "color": {
+    "primary": {
+      "default": "#1B6AFE"
+    }
+  },
+  "gradient": {
+    "primary_to_black_98deg": {
+      "angle": "98deg"
+    }
+  }
+}

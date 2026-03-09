@@ -1,0 +1,1 @@
+module.exports = { theme: { extend: { colors: { primary: { DEFAULT: '#1B6AFE' }, neutral: { lightest:'#F2F2F2', darkest:'#000000' } }, borderRadius: { sm:'4px', md:'8px', lg:'16px' } } } }

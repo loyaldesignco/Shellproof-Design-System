@@ -1,0 +1,1 @@
+# [Case Study Title]\n\n## Client Context\n\n## Challenge\n\n## Risk Profile\n\n## Solution\n\n## Implementation Approach\n\n## Results\n\n## Strategic Impact\n\n## Call to Action\n

@@ -1,0 +1,27 @@
+{
+  "primary": {
+    "blue_ribbon_lightest": "#E8F0FE",
+    "blue_ribbon_lighter": "#D1E1FE",
+    "blue_ribbon_light": "#5F96FE",
+    "blue_ribbon": "#1B6AFE",
+    "blue_ribbon_dark": "#1554CB",
+    "blue_ribbon_darker": "#0A2A65",
+    "blue_ribbon_darkest": "#081F4C"
+  },
+  "secondary": {
+    "black": "#000000"
+  },
+  "neutral": {
+    "white": "#FFFFFF",
+    "neutral_lightest": "#F2F2F2",
+    "neutral_lighter": "#D8D8D8",
+    "neutral_light": "#B2B2B2",
+    "neutral": "#7F7F7F",
+    "neutral_dark": "#4C4C4C",
+    "neutral_darker": "#191919",
+    "neutral_darkest": "#000000"
+  },
+  "gradients": {
+    "primary_to_black_98deg": "linear-gradient(98deg, #1B6AFE 0%, #000000 100%)"
+  }
+}

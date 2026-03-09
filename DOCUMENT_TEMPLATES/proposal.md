@@ -1,0 +1,1 @@
+# [Proposal Title]\n\n## Executive Summary\n\n## Client Needs\n\n## Risk and Gap Summary\n\n## Proposed Solution\n\n## Scope of Work\n\n## Delivery Approach\n\n## Timeline\n\n## Pricing\n\n## Assumptions\n\n## Next Steps\n

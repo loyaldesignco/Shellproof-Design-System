@@ -1,0 +1,32 @@
+{
+  "radius": {
+    "small": "4px",
+    "medium": "8px",
+    "large": "16px"
+  },
+  "shadow": {
+    "xxsmall": "0 1px 2px rgba(0,0,0,0.05)",
+    "xsmall": "0 2px 4px rgba(0,0,0,0.08)",
+    "small": "0 4px 8px rgba(0,0,0,0.10)",
+    "medium": "0 8px 16px rgba(0,0,0,0.12)",
+    "large": "0 16px 24px rgba(0,0,0,0.14)",
+    "xlarge": "0 24px 40px rgba(0,0,0,0.16)",
+    "xxlarge": "0 40px 64px rgba(0,0,0,0.18)"
+  },
+  "opacity": {
+    "disabled": 0.4,
+    "subtle": 0.7,
+    "full": 1
+  },
+  "animation": {
+    "fast": "120ms",
+    "normal": "240ms",
+    "slow": "400ms"
+  },
+  "z_index": {
+    "base": 1,
+    "dropdown": 100,
+    "modal": 1000,
+    "overlay": 2000
+  }
+}

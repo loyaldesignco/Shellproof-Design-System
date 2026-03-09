@@ -1,0 +1,143 @@
+{
+  "marketing": {
+    "landing_page": {
+      "section_order": [
+        "hero",
+        "credibility_bar",
+        "problem_statement",
+        "solution_overview",
+        "key_benefits",
+        "service_breakdown",
+        "compliance_or_security_framework",
+        "proof_points",
+        "call_to_action"
+      ]
+    },
+    "service_page": {
+      "section_order": [
+        "hero",
+        "service_summary",
+        "who_it_is_for",
+        "core_challenges",
+        "solution_details",
+        "process_or_engagement_model",
+        "compliance_alignment",
+        "outcomes",
+        "faq",
+        "call_to_action"
+      ]
+    },
+    "case_study": {
+      "section_order": [
+        "title_block",
+        "client_context",
+        "challenge",
+        "risk_profile",
+        "solution",
+        "implementation_approach",
+        "results",
+        "strategic_impact",
+        "closing_call_to_action"
+      ]
+    },
+    "blog_post": {
+      "section_order": [
+        "title",
+        "executive_summary",
+        "context",
+        "key_issue",
+        "analysis",
+        "recommendations",
+        "closing_takeaway",
+        "call_to_action"
+      ]
+    }
+  },
+  "sales": {
+    "proposal": {
+      "section_order": [
+        "cover",
+        "executive_summary",
+        "client_needs",
+        "risk_and_gap_summary",
+        "proposed_solution",
+        "scope_of_work",
+        "delivery_approach",
+        "timeline",
+        "pricing",
+        "assumptions",
+        "next_steps"
+      ]
+    },
+    "capability_statement": {
+      "section_order": [
+        "header",
+        "company_overview",
+        "core_competencies",
+        "differentiators",
+        "naics_and_codes",
+        "past_performance",
+        "contact_information"
+      ]
+    },
+    "whitepaper": {
+      "section_order": [
+        "cover",
+        "executive_summary",
+        "industry_context",
+        "problem_definition",
+        "risk_analysis",
+        "framework_or_methodology",
+        "recommendations",
+        "conclusion",
+        "call_to_action"
+      ]
+    },
+    "report": {
+      "section_order": [
+        "cover",
+        "summary_of_findings",
+        "objectives",
+        "methodology",
+        "observations",
+        "risk_levels",
+        "recommendations",
+        "appendix"
+      ]
+    }
+  },
+  "marketing_content": {
+    "email_newsletter": {
+      "section_order": [
+        "subject_line",
+        "preview_text",
+        "headline",
+        "opening_note",
+        "primary_insight",
+        "supporting_points",
+        "call_to_action",
+        "footer"
+      ]
+    },
+    "linkedin_post": {
+      "section_order": [
+        "hook",
+        "context",
+        "insight",
+        "practical_takeaway",
+        "call_to_action"
+      ]
+    },
+    "cybersecurity_advisory": {
+      "section_order": [
+        "headline",
+        "issue_summary",
+        "affected_audience",
+        "risk_description",
+        "recommended_actions",
+        "strategic_implication",
+        "call_to_action"
+      ]
+    }
+  }
+}

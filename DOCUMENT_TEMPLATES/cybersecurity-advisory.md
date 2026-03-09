@@ -1,0 +1,1 @@
+# [Advisory Headline]\n\n## Issue Summary\n\n## Affected Audience\n\n## Risk Description\n\n## Recommended Actions\n\n## Strategic Implication\n\n## Call to Action\n

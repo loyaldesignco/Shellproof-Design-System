@@ -1,0 +1,1 @@
+# Icons\nOrganize icons by security, compliance, and UI categories.
